@@ -1,4 +1,3 @@
-###Stage1##
 pipeline {
     agent any
     stages {
@@ -11,4 +10,4 @@ pipeline {
         }
     }
 }
-##########
+##########Above is Stage1###
